@@ -1,0 +1,7 @@
+{
+    "mongoURI": "mongodb+srv://novik21:novik1221@kittencluster-gik5h.mongodb.net/test?retryWrites=true",
+    "jwtSecret": "secret",
+    "githubClientId": "fb2f13ec12bedb4bacad",
+    "githubSecret": "21d47093a2bd1b82dd32b6785325955819713f24"
+  }
+  
